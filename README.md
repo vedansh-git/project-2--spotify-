@@ -29,20 +29,6 @@ Welcome to my **Spotify Clone**! This project is a web-based music player design
 * **Netlify:** For automated hosting and continuous deployment.
 * **GitHub:** For version control and team collaboration.
 
----
-
-## 🤝 How to Collaborate
-
-I'm working on this with my friends! If you want to contribute, please follow these steps:
-
-1. **Clone the repo:** `git clone [Your-Repo-URL]`
-2. **Create a branch:** `git checkout -b feature/your-feature-name`
-3. **Commit your changes:** `git commit -m 'Add some amazing feature'`
-4. **Push to the branch:** `git push origin feature/your-feature-name`
-5. **Open a Pull Request!**
-
----
-
 ## 📁 Folder Structure
 
 * `/images` - Contains all album covers and icons. 🖼️
