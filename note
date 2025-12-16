@@ -1,0 +1,26 @@
+<img aria-hidden="false" draggable="false" loading="lazy" src="https://i.scdn.co/image/ab67616d00001e02a5183fa4b99bcec1f506418d" data-testid="card-image" alt="" class="LBM25IAoFtd0wh7k3EGM Z3N2sU3PRuY4NgvdEz55 PgTMmU2Gn7AESFMYhw4i">
+
+
+<svg width="60" height="60" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <!-- Green Circle -->
+  <circle cx="50" cy="50" r="48" fill="#1DB954"/>
+
+  <!-- Centered Play Icon -->
+  <polygon points="42,30 72,50 42,70" fill="black"/>
+</svg>
+
+
+background color focus
+background hover
+
+
+
+i am making a spotify clone as a project . the songs are stored in my local computer disk. now i want this website to work on different devices. so what i have to do so that the songs are available to all who ever using this clone website. . do i have to store the all files and song folder in cloud . suggest some good free cloud storage where i can store songs so that in every device the songs runs
+
+
+<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+  <path d="M9 18V5l12-2v13" />
+  <circle cx="6" cy="18" r="3" />
+  <circle cx="18" cy="16" r="3" />
+</svg>
+
